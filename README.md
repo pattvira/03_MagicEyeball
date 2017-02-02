@@ -1,5 +1,5 @@
 ## 03_MagicEyeball
-[pattvira.com/magic_eyeball](http://pattvira.com/magic_eyeball)
+[pattvira.com/magic-eyeball](http://pattvira.com/magic-eyeball)
 
 [Video Documentation](https://youtu.be/f2CfsaF9Uho)
 
@@ -124,6 +124,8 @@ You might wonder, what are all these random phrases. What I am trying to do here
 	ParticleIntent {question}
     
 ## 3) Particle Web IDE	[(https://build.particle.io)](https://build.particle.io)
+![circuit_diagram.png]({{site.baseurl}}/circuit_diagram.png)
+
 
 Steps: 
 
