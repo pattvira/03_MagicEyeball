@@ -1,0 +1,13 @@
+{ 
+ "intents": [ 
+  { 
+    "intent": "ParticleIntent", 
+    "slots": [ 
+      { 
+       "name": "question", 
+       "type": "QUESTION" 
+      } 
+     ] 
+ } 
+] 
+} 
