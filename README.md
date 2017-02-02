@@ -1,7 +1,7 @@
 ## 03_MagicEyeball
 [pattvira.com/magic_eyeball](http://pattvira.com/magic_eyeball)
 
-Video Documentation 
+[Video Documentation](https://youtu.be/f2CfsaF9Uho)
 
 ### Overview
 
@@ -92,7 +92,7 @@ You might wonder, what are all these random phrases. What I am trying to do here
 	Can I get a cup of tea
 	Is the sky blue
 	Are you kidding me Alexa
-	Is my real name Scala J Jipsi 
+	Is my real name Scala J Jisi 
 	The calculator is not working
 	What the heck is this
 	Can you answer my question please
@@ -132,15 +132,12 @@ Steps:
 1. Flash an appropriate sketch.
 
 Creating an Alexa Skill can be a bit challenging at first (at least for me) so I will try to explain with the best of my ability. For extra references, here are very useful links I followed:
-https://github.com/krvarma/Particle_Alexa 
-https://github.com/rlisle/alexaParticleBridge
 
-**Words of warning:**
+[https://github.com/krvarma/Particle_Alexa](https://github.com/krvarma/Particle_Alexa) 
+
+[https://github.com/rlisle/alexaParticleBridge](https://github.com/rlisle/alexaParticleBridge)
+
+**Words of Warning:**
 
 This is my first take on creating an Alexa Skill. I did not publish the skill yet because there is still a little bit of a bug as Alexa sometimes does not recognize the skill or does not hear me say magic eyeball correctly. However, it works most of the time. 
-Take a stab at it, and let me know what I can improve!    
-
-
-
-
-
+Take a stab at it, and let me know what I can improve!
